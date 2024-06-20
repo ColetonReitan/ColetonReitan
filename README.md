@@ -1,9 +1,4 @@
-- Hello! I’m @ColetonReitan, I recieved my undergraduate degree in 2022 from Wesleyan University with a focus in Economics and Data Analytics and am currently working towards completing my Master's Degree in Business Analytics at Adelphi University! 
-- Aspiring Data Scientist/Quantitative Researcher!
-- I love baseball and am an exceptional pitcher; I was named Captain of the Varsity Baseball team at Wesleyan University and am a current captain of the Varsity Baseball team at Adelphi University.
+- Hello! I’m @ColetonReitan, I recieved my undergraduate degree in 2022 from Wesleyan University with a focus in Economics and Data Analytics and have recently completed my Master's Degree in Business Analytics at Adelphi University! 
+- Aspiring Data Scientist/Machine Learning Engineer!
+- I love baseball and was an exceptional pitcher; I was named Captain of the Varsity Baseball team at both Wesleyan University & Adelphi University and.was awared first team all region!
 - 📫 If you would like to reach me, my email is coletonreitan@gmail.com 
-
-<!---
-ColetonReitan/ColetonReitan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
